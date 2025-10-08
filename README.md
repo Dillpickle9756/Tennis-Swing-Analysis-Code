@@ -13,3 +13,6 @@ Instructions:
     in your files. After that, all you have to do is change the filepath on the code to your filepath, and add the name
     of the video file. The last step is to input whether you are left or right-handed by assigning the "Hand" variable,
     and then you are good to go.
+
+    You will need to download the pretrained YOLO Pose estimation model, which can be found here: https://docs.ultralytics.com/tasks/pose/
+    You will then need to specify the path to this model in a command line argument
